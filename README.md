@@ -14,3 +14,8 @@
 ```
 ./gofileencrypt.exe -decrypt -fp test.encrypt -kp test.key
 ```
+
+** Installation
+```
+go get github.com/Ayuei/gofileencrypt
+```
